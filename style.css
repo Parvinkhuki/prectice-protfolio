@@ -32,8 +32,7 @@ ul, li, p{
 .details{
     margin-left: 8%;
     margin-top: 15%;
-    margin-right: 50%;
-
+  
 
 }
 span{ 
@@ -45,7 +44,7 @@ span{
 .details p{
     text-align: justify;
 }
-a
+.details a
 {
   background-color: rgb(18, 18, 77);
   color:#eff4fd;
@@ -61,5 +60,19 @@ a:hover{
 }
 .img{
     height: 100%;
-    margin-left: 50%
+    margin-right: ;
+ 
+}
+.marg{
+    display: flex;
+}
+#copy{
+    margin: 50%;
+    text-decoration: none;
+    background-color: rgb(23, 14, 71);
+    color:#eff4fd;
+    padding: 10px;
+}
+#copy:hover{
+    color:chocolate;
 }
