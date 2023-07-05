@@ -59,3 +59,7 @@ font-weight: bold;
 a:hover{
     color:red;
 }
+.img{
+    height: 100%;
+    margin-left: 50%
+}
