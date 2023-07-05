@@ -16,17 +16,17 @@ nav{
     align-items:center;
     justify-content: space-between;
 }
- ul, li ,p{
+ .hero ul, li ,p{
     display: inline-block;
     list-style: none;
     margin: 10px 20px;
 }
-ul, li, p{
+.hero ul, li, p{
  text-decoration: none;
  color: black;
  font-weight: bold;
 }
- ul, li:hover{
+.hero ul, li:hover{
     color: blue;
 }
 .details{
@@ -72,4 +72,15 @@ a:hover{
 }
 #copy:hover{
     color:chocolate;
+}
+
+h1{
+    text-align: center;
+}
+h3{
+    margin-left: 40px;
+ text-decoration-line: underline;
+}
+#p1, #p2,#p3{
+    margin-left: 40px;
 }
