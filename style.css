@@ -21,6 +21,7 @@ nav{
     display: inline-block;
     list-style: none;
     margin: 10px 20px;
+    cursor: pointer;
 }
 .hero ul, li, p{
  text-decoration: none;
@@ -84,4 +85,17 @@ h3{
 }
 #p1, #p2,#p3{
     margin-left: 40px;
+}
+.emnei{ 
+    display: flex;
+}
+.keno{
+    margin: 20px;
+    padding:15px;
+    border:50%;
+    border-color: burlywood;
+background-color: rgb(209, 183, 34);
+}
+.keno:hover{
+    color:rgb(196, 90, 187)
 }
