@@ -58,16 +58,13 @@ font-weight: bold;
 a:hover{
     color:red;
 }
-.img{
-    height: 100%;
-   
- 
-}
+
+
 .marg{
     display: flex;
 }
 #copy{
-    margin: 50%;
+    margin:50%;
     text-decoration: none;
     background-color: rgb(23, 14, 71);
     color:#eff4fd;
