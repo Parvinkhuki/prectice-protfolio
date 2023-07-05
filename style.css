@@ -36,7 +36,7 @@ ul, li, p{
 
 }
 span{ 
-    color:blue
+    color:blue;
 }
 #he{
     font-size: 40px;
@@ -60,7 +60,7 @@ a:hover{
 }
 .img{
     height: 100%;
-    margin-right: ;
+   
  
 }
 .marg{
