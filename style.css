@@ -44,9 +44,8 @@ span{
     font-size: 40px;
     text-align: justify;
 }
-.details p{
-    text-align: justify;
-}
+
+
 .details a
 {
   background-color: rgb(18, 18, 77);
@@ -98,5 +97,5 @@ h3{
 background-color: rgb(209, 183, 34);
 }
 .keno:hover{
-    color:rgb(196, 90, 187)
+    color:rgb(255, 255, 255)
 }
