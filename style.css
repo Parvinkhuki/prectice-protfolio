@@ -17,13 +17,13 @@ nav{
     align-items:center;
     justify-content: space-between;
 }
- .hero ul, li ,p{
+ .hero ul, li ,.ji{
     display: inline-block;
     list-style: none;
     margin: 10px 20px;
     cursor: pointer;
 }
-.hero ul, li, p{
+.hero ul, li, .ji{
  text-decoration: none;
  color: black;
  font-weight: bold;
